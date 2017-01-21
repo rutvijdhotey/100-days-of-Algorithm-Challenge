@@ -5,6 +5,8 @@
 ### Day 0: January 20, 2017 
 1) **generateParenthesis** : Its is an algorithm for generating valid paranthesis strings for a given value n. Uses hashsets and List.
 
+2) **LRUCache** : Its is an LRU implementation using HashMap and DeQueue or LinkedList with CacheNode(Created) Object.
+
 ### Day 1: January 21, 2017 
 1) **filename1:** description 
 
