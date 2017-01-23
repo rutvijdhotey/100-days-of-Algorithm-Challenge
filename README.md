@@ -11,3 +11,8 @@
 1) **MaxXorInAnArray** : Finding the XOR of 2 elements in an unempty array using HashMap and Bit manipulation.
 
 2) **MinStack:** : Min Stack in O(n) space . ie without using an extra stack to store the min.
+
+### Day 2: January 22, 2017 
+1) **Binary Tree Questions** : 4 Binary Tree questions on LeetCode :  Traversal, Rebuilding and ZIGZAG ordering
+
+
