@@ -13,6 +13,14 @@
 2) **MinStack:** : Min Stack in O(n) space . ie without using an extra stack to store the min.
 
 ### Day 2: January 22, 2017 
-1) **Binary Tree Questions** : 4 Binary Tree questions on LeetCode :  Traversal, Rebuilding and ZIGZAG ordering
+1) **Binary Tree Questions** : 3 Binary Tree questions on LeetCode :  Traversal, Rebuilding, ZIGZAG ordering, FlattenTreeInPlace
+
+
+### Day 3: January 24, 2017 
+1) **Divide Integers** : Integer Division without using MOD DIV or Mult in O(logn) time.
+2) **SurroundedRegions** : Simple DFS Graph Questions to start of with DFS Implementations.
+3) **ConvertStringToInteger** : Convert String to Integers(Requirements Interview Question)
+
+
 
 
