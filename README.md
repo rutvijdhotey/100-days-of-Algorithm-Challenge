@@ -18,8 +18,11 @@
 
 ### Day 3: January 24, 2017 
 1) **Divide Integers** : Integer Division without using MOD DIV or Mult in O(logn) time.
+
 2) **SurroundedRegions** : Simple DFS Graph Questions to start of with DFS Implementations.
+
 3) **ConvertStringToInteger** : Convert String to Integers(Requirements Interview Question)
+
 
 
 
